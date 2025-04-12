@@ -100,7 +100,7 @@ const Home = ({ darkMode, setDarkMode }) => {
               className="mb-8"
             >
               <h1 className="text-5xl md:text-7xl font-extrabold mb-2 bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-                VG DASH
+                GV DASH
               </h1>
               <p className="text-lg text-surface-600 dark:text-surface-400">
                 Run, jump, slide & collect coins!
@@ -212,7 +212,7 @@ const Home = ({ darkMode, setDarkMode }) => {
       )}
 
       <footer className="p-4 text-center text-sm text-surface-500">
-        &copy; {new Date().getFullYear()} VG DASH | All Rights Reserved
+        &copy; {new Date().getFullYear()} GV DASH | All Rights Reserved
       </footer>
     </div>
   )
